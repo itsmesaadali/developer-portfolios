@@ -1687,7 +1687,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ryan Pereira](http://ryanpereira.me)
 
 ## S
-
+- [Saad Ali](https://itsmesaad.me/) [Full Stack Developer | Next.js, React & Node.js]
 - [SE Jihad](https://sejihad.vercel.app) [Full Stack Developer]
 - [Saad Mehmood](https://iamsaadmehmood.com) [Full Stack Software Developer]
 - [Saad](https://saadarqam.vercel.app)
